@@ -1,6 +1,6 @@
 # 404 for \*.cotyhamilton.com
 
-try [anything.cotyhamilton.com](anything.cotyhamilton.com)
+try [anything.cotyhamilton.com](https://anything.cotyhamilton.com)
 
 forked from https://github.com/tojrobinson/jurassicsystems.com
 
